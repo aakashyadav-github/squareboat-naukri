@@ -1,0 +1,56 @@
+.navbar-row{
+    background-color: #303F60;
+    color : #ffffff;
+    
+}
+.login-btn{
+    padding: 3%;
+    border-radius: 10px;
+    margin: 2%;
+    color: #fff;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: 2px solid;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+.text-dec{
+    
+    text-decoration: none;
+    color: #fff;
+}
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+.container{
+    
+    margin-top: 2%;
+    position: relative;
+}
+.error{
+    color: red;
+}
+.first-btn{
+    margin: 5px;
+}
+img{
+    width: 622px;
+    height: 395px; 
+    border-radius: 20px;     
+}
+.reactangle{
+    position: absolute;
+    width: 100%;
+    height: 364px;
+    background-color: #303F60;
+}
+.card{
+    width: 18rem;
+}
+.container-two{
+    color : #ffffff;
+    position: inherit;
+    
+    
+}
